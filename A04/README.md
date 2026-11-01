@@ -13,8 +13,8 @@ This repository contains the solution for **Assignment A04**. The script `db.py`
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/](https://github.com/)<radek-jisa>/<A04>.git
-cd <your-repo-name>/A04
+git clone git@github.com:radek-jisa/ci2.git
+cd ci2\A04
 ```
 
 ### 2. Install Dependencies
