@@ -11,8 +11,9 @@ This assignment solves task #5 ($y = \sin(x)$). The solution consists of:
 
 1. **Clone the repository and navigate to the `A06` folder:**
    ```bash
-   git clone <your-repository-url>
-   cd <repository-name>/A06
+  git clone git@github.com:radek-jisa/ci2.git
+  cd ci2/A06
+
    ```
 
 2. **Create and activate a Python virtual environment:**
